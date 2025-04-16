@@ -69,7 +69,7 @@ The model revealed that `number_inpatient`, `discharge_disposition_id`, and `num
 
 Open the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](your_colab_link_here)
+https://colab.research.google.com/drive/1HyrJkC5lum3XkyEgwUtaoxMrK2BQafDX
 
 1. Upload the dataset (`diabetic_data.csv`)
 2. Run all cells
@@ -87,6 +87,6 @@ Open the notebook in Google Colab:
 
 ## 📬 Contact
 
-**Author:** *Your Name*  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+**Author:** Alen George 
+**Email:** alengeorge654@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/alengeorge9307/
